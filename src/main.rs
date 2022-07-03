@@ -1,7 +1,7 @@
 use crate::stack::Stack;
 
 mod stack;
-mod queue;
+mod array;
 
 fn main() {
     println!("Hello, world!");
